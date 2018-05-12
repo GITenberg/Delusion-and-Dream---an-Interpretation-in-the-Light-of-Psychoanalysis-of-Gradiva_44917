@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/391
     wikipedia: http://en.wikipedia.org/wiki/Sigmund_Freud
 description: 'Translation of: Der Wahn und die Träume in W. Jensens "Gradiva."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44917#Delusion-and-Dream---an-Interpretation-in-the-Light-of-Psychoanalysis-of-Gradiva
 gutenberg_issued: '2014-02-15'
 gutenberg_type: Text
 identifiers:
